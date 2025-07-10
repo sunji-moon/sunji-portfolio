@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  color: #222;
+}
+header {
+  background: #000;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+main {
+  padding: 2rem;
+}
+.project {
+  margin-bottom: 2rem;
+}
+footer {
+  background: #f0f0f0;
+  padding: 1rem;
+  text-align: center;
+}
